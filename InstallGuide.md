@@ -38,7 +38,7 @@ make
 ```
 If you get a message about a missing file "/usr/share/qt4/mkspecs/linux-g++/qmake.conf", try running
 ```
-qmake-qt4 "CONFIG+=debug"
+qmake "CONFIG+=debug"
 ```
 and then running make again.
 It may take a while. If you get errors, please comment below or send a message to  [the EMutrix discussion group](http://groups.google.com/group/emutrix/post) for help.
