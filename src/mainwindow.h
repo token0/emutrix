@@ -17,7 +17,7 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QtGui/QMainWindow>
+#include <QtWidgets/QMainWindow>
 #include <QTimer>
 #include <QButtonGroup>
 #include <QMap>
